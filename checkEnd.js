@@ -12,7 +12,6 @@ const isEndsWithScriptArrow = str => {
     return res
 } 
 
-
 module.exports = {
     isEndsWithScriptReg,isEndsWithScriptArrow
 }
